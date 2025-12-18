@@ -1,0 +1,10 @@
+numpy<2
+torchvision>=0.17,<0.18
+
+# scipy>=1.11.4,<1.14
+# scikit-learn>=1.4,<1.6
+# tqdm>=4.66
+# torch>=2.2,<2.3
+# torchmetrics==1.8.2
+# torch-fidelity==0.3.0
+# prdc
